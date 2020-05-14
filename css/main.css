@@ -19,13 +19,13 @@ main {
 /*footer*/
 
 .copyright {
-    margin: 15px 0;
+    margin: 1% 0;
 }
 
 /*home page*/
 
 .intro {
-    transform: translateY(12vh);
+    transform: translateY(10%);
 }
 
 .intro > h1 {
