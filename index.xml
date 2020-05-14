@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Judite Cypreste</title>
+    <link>https://judite.dev/</link>
+    <description>Recent content on Judite Cypreste</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 20 Jan 2019 16:13:09 +0100</lastBuildDate>
+    
+	<atom:link href="https://judite.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O tutorial mais fácil do mundo para baixar tweets</title>
+      <link>https://judite.dev/tutoriais/o-tutorial-mais-f%C3%A1cil-do-mundo-para-baixar-tweets/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://judite.dev/tutoriais/o-tutorial-mais-f%C3%A1cil-do-mundo-para-baixar-tweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aprenda Python analisando os tuítes do nosso presidente</title>
+      <link>https://judite.dev/tutoriais/aprenda-python-analisando-os-tu%C3%ADtes-do-nosso-presidente/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://judite.dev/tutoriais/aprenda-python-analisando-os-tu%C3%ADtes-do-nosso-presidente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cursos e Palestras</title>
+      <link>https://judite.dev/cursos_palestras/</link>
+      <pubDate>Sun, 20 Jan 2019 16:13:09 +0100</pubDate>
+      
+      <guid>https://judite.dev/cursos_palestras/</guid>
+      <description> 2019 CODABR (Tutorial) CAPICONF (Palestrante) PYTHON SUDESTE (Keynote) CAMPUS PARTY (Palestrante) 2018 PYTHON BRASIL[14] (Keynote) PYTHON CERRADO (Keynote) PYTHON NORDESTE (Keynote)
+ </description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://judite.dev/projetos/</link>
+      <pubDate>Sun, 20 Jan 2019 16:07:53 +0100</pubDate>
+      
+      <guid>https://judite.dev/projetos/</guid>
+      <description>Colaboradados O veículo colaborativo sobre transparência e dados abertos do Brasil.
+Conheça a iniciativa.
+Veja o código.
+PyRolês Um bot do Telegram responsável por guardar e publicar todas as fotos extra-oficiais de eventos Python. Atualmente o projeto está dentro do repositório da Python Brasil.
+Veja o código.
+Coração Radiante O brasileiro é um técnico de futebol nato, de alma, de coração. Por conta disto, surgiu a ideia de entender como o torcedor brasileiro reagiu durante as partidas de futebol da Seleção Brasileira durante a Copa do Mundo.</description>
+    </item>
+    
+    <item>
+      <title>Reportagens</title>
+      <link>https://judite.dev/reportagens/</link>
+      <pubDate>Sun, 20 Jan 2019 16:07:53 +0100</pubDate>
+      
+      <guid>https://judite.dev/reportagens/</guid>
+      <description>UOL NÚMEROS SUBESTIMADOS. COVID-19 NÃO ESCOLHE VÍTIMA: LEVOU JOVEM, IDOSO, SAUDÁVEL E DOENTE. DADOS OFICIAIS NÃO DÃO CONTA DA TRAGÉDIA (30.abr.2020) Os rostos por trás dos números dos óbitos provocados pelo coronavírus no país.
+Leia a matéria. Leia a análise de dados. A EVOLUÇÃO DO NOVO CORONAVÍRUS NO BRASIL (16.abr.2020) Reportagem analisou dados e preparou uma linha do tempo da disseminação do vírus pelas cidades brasileiras.
+Leia a matéria. Leia a análise de dados.</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://judite.dev/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://judite.dev/sobre/</guid>
+      <description>Meu nome é Judite Cypreste e sou jornalista de dados.
+Acredito que um bom jornalista de dados entrega mais do que tabelas e números percentuais incompreensíveis. Por isso, produzo reportagens usando programação e ferramentas para raspagem e análise de dados.
+Atualmente sou jornalista de dados no UOL.
+Sou co-fundadora e diretora do Colaboradados, o veículo brasileiro sobre transparência e open data no Brasil. Um projeto que, por meio da programação e diversas ferramentas, propõe-se a falar sobre dados e a sua importância nas diferentes esferas da sociedade.</description>
+    </item>
+    
+  </channel>
+</rss>

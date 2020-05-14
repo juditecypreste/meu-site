@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutoriais on Judite Cypreste</title>
+    <link>https://judite.dev/tutoriais/</link>
+    <description>Recent content in Tutoriais on Judite Cypreste</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://judite.dev/tutoriais/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O tutorial mais fácil do mundo para baixar tweets</title>
+      <link>https://judite.dev/tutoriais/o-tutorial-mais-f%C3%A1cil-do-mundo-para-baixar-tweets/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://judite.dev/tutoriais/o-tutorial-mais-f%C3%A1cil-do-mundo-para-baixar-tweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aprenda Python analisando os tuítes do nosso presidente</title>
+      <link>https://judite.dev/tutoriais/aprenda-python-analisando-os-tu%C3%ADtes-do-nosso-presidente/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://judite.dev/tutoriais/aprenda-python-analisando-os-tu%C3%ADtes-do-nosso-presidente/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
